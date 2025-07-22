@@ -16,7 +16,7 @@ This project focuses on analyzing global warming patterns using data visualizati
 ---
 
 ## **2. Dataset Description**
-The dataset consists of **100,000 records** across **26 columns**, covering multiple **countries and years** in a time range between 1900 and 2023.
+The dataset consists of **100,000 records** across **26 columns**, covering multiple **countries and years** in a time range between **1900 and 2023**.
 
 | Feature                         | Description |
 |----------------------------------|-------------|
